@@ -1,0 +1,3 @@
+# shop_vue
+vue2_project_shopvue
+主要是一个vue2语法的购物商城前台
